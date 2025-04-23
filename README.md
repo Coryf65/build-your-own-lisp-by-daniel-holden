@@ -15,6 +15,6 @@ Running a C program
 ./hello_world
 ```
 
-### some reccomendations
+### some recommendations
 
 - Valgrind: a tool for debugging C programs
