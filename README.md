@@ -14,7 +14,7 @@ sudo apt install make-essential
 
 Compile in C, using the CC compilier, with linking flag
 ```cli
-cc -std=c99 -Wall hello_world.c -ledit -o hello_world
+cc -std=c99 -Wall hello_world.c -ledit -lm -o hello_world
 ```
 
 Running a C program
